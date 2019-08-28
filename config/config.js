@@ -34,9 +34,9 @@ const config = {
   },
   // 路由配置
   routes: pageRoutes,
-  alias: {
-    '@ant-design/icons/lib/dist$': path.resolve(__dirname, '../src/icons.ts'),
-  },
+  // alias: {
+  //   '@ant-design/icons/lib/dist$': path.resolve(__dirname, '../src/icons.ts'),
+  // },
   ignoreMomentLocale: true,
   lessLoaderOptions: {
     javascriptEnabled: true,
