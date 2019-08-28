@@ -5,7 +5,7 @@ const routes = [
     routes: [
       {
         path: 'index',
-        name: '首页',
+        name: '首页222',
         icon: 'home',
         component: './index',
       },
